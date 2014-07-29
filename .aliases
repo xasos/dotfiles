@@ -1,4 +1,4 @@
-lias gs='git status'
+alias gs='git status'
 alias gb='git branch'
 alias ga='git add -A'
 alias gc='git commit'
