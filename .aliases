@@ -24,3 +24,4 @@ alias lc='ls -lcra'
 alias clc='clear'
 alias rm='rm -i'
 
+alias mit='license-mit create -a Niraj\ Pant -y 2014'
