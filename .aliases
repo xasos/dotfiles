@@ -27,5 +27,7 @@ alias lc='ls -lcra'
 alias clc='clear'
 alias rm='rm -i'
 
+alias git commit='git commit -s'
+
 alias mit='license-mit create -a Niraj\ Pant -y 2014'
 alias pls='sudo'
